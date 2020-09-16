@@ -1,0 +1,23 @@
+{
+  "name": "Chris.TypeScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christopher-Shi/Chris.TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christopher-Shi/Chris.TypeScript/issues"
+  },
+  "homepage": "https://github.com/Christopher-Shi/Chris.TypeScript#readme",
+  "dependencies": {
+    "@types/node": "^14.10.1"
+  }
+}
